@@ -1,6 +1,6 @@
-# Game App
+# App Http
 
-Projeto criado com React-Native para simular o jogo pedra, papel e tesoura entre o usuário e o celular.
+Aplicativo desenvolvido para implementação do protocolo HTTP utilizando o Axios
 
 ## Passos para criação do projeto
     
